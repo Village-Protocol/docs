@@ -1,5 +1,7 @@
 The Karnataka Warehouses Act, 1961
 
+:+1:
+
 Act 11 of 1962
 
 Keyword(s):
