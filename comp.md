@@ -1,4 +1,4 @@
-# Compile-Time Options
+# Compile-Time Options :+1:
 
 `-ams_discipline <discipline_name>`  
 Specifies the default discrete discipline in VerilogAMS.
